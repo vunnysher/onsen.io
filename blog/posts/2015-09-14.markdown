@@ -2,7 +2,7 @@
 author: andreas
 date: 2015-09-14
 id: material-design-onsen-ui
-title: "Material Design in Onsen UI"
+title: "Material Design in Onsen UI 2.0"
 tags: material design, onsen ui
 ---
 
